@@ -3,7 +3,6 @@ body {
 }
 
 .page {
-  border: 1px solid red;
   width: 1000px;
   margin: 65px auto 0;
 }
@@ -24,8 +23,8 @@ ul {
   padding: 0;
 }
 
-li a {
-  font-family: 'Mulish';
+ul li a {
+  font-family: 'Mulish', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 23px;
@@ -33,10 +32,56 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  font-family: 'Mulish';
+ul li a:hover {
+  font-family: 'Mulish', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 23px;
   color: #1F1534;
+}
+
+h1 {
+  width: 480px;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 49px;
+  line-height: 56px;
+}
+
+h1 span {
+  font-weight: 700;
+  color: #89C5CC;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7D7987;
+}
+
+button {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+
+
+
+
+footer p {
+  text-align: center;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #000000;
+}
+
+footer a {
+  text-decoration: none;
+  color: #000000;
 }
