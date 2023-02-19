@@ -32,7 +32,7 @@ Esse projeto se trata de uma pagina para treinos, aonde o cliente é levado para
 
 ## 📚 Conhecimento
 
-Um dos conhecimentos adquirido nesse projeto foi a propriedade display: flex; sendo usado com a soma da ferramenta DevTools no Browser, assim abilitando novas possibilidades de alinhamentos dos objetos na tela.
+Um dos conhecimentos adquirido nesse projeto foi a propriedade display: flex; sendo usado com a soma da ferramenta DevTools no Browser, assim habilitando novas possibilidades de alinhamentos dos objetos na tela.
 
 exemplos de uso dessas propriedades, no Header e na Main do projeto.
 
